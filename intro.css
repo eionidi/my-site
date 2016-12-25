@@ -1,0 +1,19 @@
+.intro {
+  background-color: rgba(0, 0, 0, 0);
+  background-image: linear-gradient(rgba(138, 186, 86, 0), rgba(138, 186, 86, 0.3) 95%),
+                    url("back.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll, fixed;
+  background-position: 0 0%, center;
+
+  color: #fff;
+  padding: 60px;
+  margin-top: 76px;
+}
+
+.intro .text-lead {
+  color: #395652;
+  max-width: 70%;
+  margin: 0 15%;
+}

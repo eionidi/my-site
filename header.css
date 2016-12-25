@@ -1,0 +1,27 @@
+.header {
+  position: fixed;
+  width: 100%;
+  background: #fff;
+  top: 0;
+  opacity: 0.95;
+}
+
+.header-nav {
+  float: right;
+  vertical-align: baseline;
+  line-height: 36px;
+  padding: 0 20px;
+}
+
+.header-nav-item {
+  list-style: none;
+  padding: 0 20px;
+  margin: 0;
+  display: inline-block;
+}
+
+.header-nav-link {
+  text-decoration: none;
+  color: gray;
+  font-weight: bold;
+}
