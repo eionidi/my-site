@@ -13,6 +13,10 @@
   color: #fff;
 }
 
+.button-green:hover {
+  background: #25AD10;
+}
+
 .button-blue {
   background: #487F77;
   color: #fff;
