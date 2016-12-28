@@ -7,7 +7,8 @@
 }
 
 .header-nav {
-  float: left;
+  float: right;
+  overflow: hidden;
   vertical-align: baseline;
   line-height: 36px;
   padding: 0 20px;
